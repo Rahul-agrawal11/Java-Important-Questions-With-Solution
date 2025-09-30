@@ -1,0 +1,68 @@
+Here are **important questions** on **1D and 2D arrays** (with varying difficulty), suitable for practice in **Java, C++, or Python**—ideal for exams, interviews, or improving programming logic:
+
+---
+
+### ✅ **1D Array Questions**
+
+#### 🟢 *Easy*
+
+1. Find the **maximum** or **minimum** element in a 1D array.
+2. Calculate the **sum** and **average** of array elements.
+3. Find the **second largest** or **second smallest** element.
+4. Count **even and odd** numbers in the array.
+5. Check if an element **exists** in the array (linear search).
+6. **Reverse** the array.
+7. **Left or right rotate** the array by 1 or k positions.
+
+#### 🟡 *Medium*
+
+8. Find all **duplicate elements** in an array.
+9. Remove **duplicate elements** from an array.
+10. **Sort** the array using bubble/selection/insertion sort.
+11. **Merge two arrays** into a single array.
+12. Check if the array is a **palindrome**.
+13. Find the **frequency** of each element.
+14. Find the **missing number** in an array from 1 to n.
+
+#### 🔴 *Hard*
+
+15. Maximum **sum of a subarray** (Kadane’s Algorithm).
+16. Find **two elements whose sum is equal to a given number**.
+17. Rearrange array to form **alternating positive and negative** numbers.
+18. Find the **equilibrium index** (left sum = right sum).
+19. Find the **longest increasing subsequence**.
+
+---
+
+### ✅ **2D Array Questions**
+
+#### 🟢 *Easy*
+
+1. Input and print a 2D array (matrix).
+2. Find the **sum** of all elements.
+3. Print **row-wise** and **column-wise**.
+4. Find the **maximum element** in each row or column.
+5. Search an element in the 2D array (brute-force).
+
+#### 🟡 *Medium*
+
+6. Print the **transpose** of a matrix.
+7. Check if a matrix is **symmetric**.
+8. **Add** and **multiply** two matrices.
+9. **Spiral print** of a matrix.
+10. **Rotate** a matrix by 90 degrees.
+11. **Boundary traversal** of a matrix.
+12. Count the number of **zeros/ones**.
+
+#### 🔴 *Hard*
+
+13. **Search in a sorted matrix** (row-wise and column-wise sorted).
+14. **Find saddle point** (element smallest in row and largest in column).
+15. Find the **diagonal sum** (main and secondary diagonal).
+16. Find the **largest submatrix with all 1s**.
+17. **Convert a matrix to its lower/upper triangular form**.
+18. **Flood fill algorithm** implementation.
+
+---
+
+Would you like solutions for any of these questions in **Java**, **Python**, or **C++**?
